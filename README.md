@@ -1,2 +1,2 @@
 # edurekapractise
-This repository is just for training gexercises
+This repository is just for training exercises
